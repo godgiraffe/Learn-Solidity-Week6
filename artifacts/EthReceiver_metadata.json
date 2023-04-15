@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"05_SendEth.sol": "EthReceiver"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"05_SendEth.sol": {
+			"keccak256": "0x8be1816327ba85cb78fb907ef4eb171e018516e6ced7eb74203940980c06563c",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5940314e9ca52314bd6509ff97050cd22744145e6979946c080af541dcf8064c",
+				"dweb:/ipfs/QmcQmMEqUyiZcFyj4NANvAcYNZ9paCeEv66QweXQHMXWar"
+			]
+		}
+	},
+	"version": 1
+}

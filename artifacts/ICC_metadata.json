@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_n",
+						"type": "uint256"
+					}
+				],
+				"name": "addbalance",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TestInterface.sol": "ICC"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TestInterface.sol": {
+			"keccak256": "0xad73297ee2886c038d173424cdeece0fb7dc89575ad59b049443011634f19431",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2abb437ad5e576adde47a7484dae637da4051c7b1daac16592946d4eb6ea7c1e",
+				"dweb:/ipfs/QmSMcy1CVozedRMn1rEQFdDDbHRCXU7PFB3ybUxWfSZ2v3"
+			]
+		}
+	},
+	"version": 1
+}

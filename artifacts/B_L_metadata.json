@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "amount",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "a",
+						"type": "address"
+					}
+				],
+				"name": "callSetA",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lesson-2.sol": "B_L"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lesson-2.sol": {
+			"keccak256": "0xeb0893f1dc88747cc028ea2f4f64891a09e7d16301a279851a4081c36fefb4b8",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://edb5b923c39557bc336324c0bf933520522329adb87b9a3e9f210551ff87937e",
+				"dweb:/ipfs/QmUWB9CDgyLVVTVr53XLXxN63dwTabWCfbG1CALwtWazUp"
+			]
+		}
+	},
+	"version": 1
+}

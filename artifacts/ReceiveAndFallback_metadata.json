@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [],
+				"name": "FallbackEvent",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [],
+				"name": "ReceiveEvent",
+				"type": "event"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "fallback"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lesson-1.sol": "ReceiveAndFallback"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lesson-1.sol": {
+			"keccak256": "0xec647a7f591f4bb935a5dd3467996ef7ae9ee8f5100b404f35228850e9c3e44f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://88055f03968feed68038b3347e9a4b75cf7d5bfcf56ab595f687759178537233",
+				"dweb:/ipfs/QmNcYoQXjpeR5CRDXwU5AduVq9ycGytpaCTR3jaoVKgzzN"
+			]
+		}
+	},
+	"version": 1
+}

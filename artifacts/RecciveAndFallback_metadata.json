@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Lesson-1.sol": "RecciveAndFallback"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Lesson-1.sol": {
+			"keccak256": "0x601f43a604969e93924b0b134f6979b63d744a14d27d1bcf8c26b86cfc346274",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://fdf46c264e431cda82c157785561e82851e28cca3b0c35c5e6f1ae3903488130",
+				"dweb:/ipfs/QmduHa1NULeqoC6tPTczLUDehVF7Wiu7vmUwgjLsdgrB19"
+			]
+		}
+	},
+	"version": 1
+}

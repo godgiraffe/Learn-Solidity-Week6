@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bytes32",
+						"name": "data",
+						"type": "bytes32"
+					}
+				],
+				"name": "submitDecodeData",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "bytes",
+						"name": "data",
+						"type": "bytes"
+					}
+				],
+				"name": "submitEncodeData",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"hackByABI.sol": "AbiEncodeDecode"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"hackByABI.sol": {
+			"keccak256": "0xbc3ace2ec2820f4dbc584498b6feeab56d3146cb680e2b3a74e3b3ef7be3ca7c",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a717fcba02f5dd2883b8262f59e7f608e81f37a3efa6182ede37d970f87e717e",
+				"dweb:/ipfs/QmdEehEAkMticHqA6FsxkfwLnsAzSkbPYoxEf2fqQ3QavA"
+			]
+		}
+	},
+	"version": 1
+}
